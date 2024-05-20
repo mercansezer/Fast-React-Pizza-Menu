@@ -22,11 +22,15 @@ The Pizza Menu Project displays a list of pizza menus on a single page. Each piz
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/pizza-menu-project.git
-
+   
    cd pizza-menu-project
+   
+   npm install
+
+   npm start
 
 
 
