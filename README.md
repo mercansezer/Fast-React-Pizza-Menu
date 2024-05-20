@@ -25,3 +25,20 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/pizza-menu-project.git
+
+
+2. **Navigate to the project directory**:
+   ```bash
+  cd pizza-menu-project
+
+
+3. **Install the dependencies**:
+   ```bash
+  npm install
+
+
+3. **Start the development server**:
+   ```bash
+  npm start
+
+
