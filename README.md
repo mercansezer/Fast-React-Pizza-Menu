@@ -28,8 +28,8 @@ To run this project locally, follow these steps:
 
 
 2. **Navigate to the project directory**:
-  
-
+   ```bash
+   git clone https://github.com/yourusername/pizza-menu-project.git
 
 3. **Install the dependencies**:
 
