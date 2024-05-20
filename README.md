@@ -28,17 +28,15 @@ To run this project locally, follow these steps:
 
 
 2. **Navigate to the project directory**:
-   ```bash
-  cd pizza-menu-project
+  
 
 
 3. **Install the dependencies**:
-   ```bash
-  npm install
 
 
-3. **Start the development server**:
-   ```bash
-  npm start
+
+
+4. **Start the development server**:
+ 
 
 
