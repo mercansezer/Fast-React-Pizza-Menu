@@ -26,6 +26,8 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/pizza-menu-project.git
 
+   cd pizza-menu-project
+
 
 
 
