@@ -33,6 +33,11 @@ To run this project locally, follow these steps:
    npm start
 
 
+## Demo
+
+You can click [here]([https://travel-list-sezer.netlify.app/](https://pizza-menu-sezer.netlify.app/)) for a live demo.
+
+
 
 
 
