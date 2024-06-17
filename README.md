@@ -18,6 +18,11 @@ The Pizza Menu Project displays a list of pizza menus on a single page. Each piz
 - **JavaScript (ES6+)**: Modern JavaScript features are utilized for clean and efficient code.
 - **CSS**: Basic styling to make the application visually appealing.
 
+
+## Demo
+
+You can click [here](https://pizza-menu-sezer.netlify.app/) for a live demo.
+
 ## Installation and Setup
 
 To run this project locally, follow these steps:
@@ -33,9 +38,6 @@ To run this project locally, follow these steps:
    npm start
 
 
-## Demo
-
-You can click [here]([https://travel-list-sezer.netlify.app/](https://pizza-menu-sezer.netlify.app/)) for a live demo.
 
 
 
